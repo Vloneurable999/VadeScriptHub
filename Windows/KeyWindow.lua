@@ -3,8 +3,8 @@ local Module = {}
 --// Variables \\--
 
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
-local KeyValidation = loadstring(game:HttpGet("https://raw.githubusercontent.com/Vloneurable999/Vade-Script-Hub/refs/heads/main/Main/Systems/KeyValidation.lua"))()
-local MainWindow = loadstring(game:HttpGet("https://raw.githubusercontent.com/Vloneurable999/Vade-Script-Hub/refs/heads/main/Main/Windows/MainWindow.lua"))()
+local KeyValidation = loadstring(game:HttpGet("https://raw.githubusercontent.com/Vloneurable999/VadeScriptHub/refs/heads/main/Systems/KeyValidation.lua"))()
+local MainWindow = loadstring(game:HttpGet("https://raw.githubusercontent.com/Vloneurable999/VadeScriptHub/refs/heads/main/Windows/MainWindow.lua"))()
 
 --// Main \\--
 

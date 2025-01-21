@@ -2,7 +2,7 @@ local Module = {}
 
 --// Variables \\--
 
-local SaveVade = loadstring(game:HttpGet("https://raw.githubusercontent.com/Vloneurable999/Vade-Script-Hub/refs/heads/main/Main/Systems/SaveVade.lua"))()
+local SaveVade = loadstring(game:HttpGet("https://raw.githubusercontent.com/Vloneurable999/VadeScriptHub/refs/heads/main/Systems/SaveVade.lua"))()
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 local owner = "Upbolt"
 local branch = "revision"
