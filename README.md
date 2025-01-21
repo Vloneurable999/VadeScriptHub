@@ -3,7 +3,7 @@
 **To use Vade Hub copy and paste the below code into your executor**
 
 ```
-local VadeURL = "https://raw.githubusercontent.com/Vloneurable999/VadeScriptHub/refs/heads/main/Main.lua"
+local VadeURL = "https://raw.githubusercontent.com/Vloneurable999/VadeScriptHub/refs/heads/main/Handler.lua"
 local Vade = loadstring(game:HttpGet(VadeURL))()
 
 Vade.Load()
