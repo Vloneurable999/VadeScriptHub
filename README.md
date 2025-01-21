@@ -10,7 +10,7 @@ Vade.Load()
 ```
 
 --Vade Hub currently has--
-DarkDex
-Hydroxide (Remote Spy)
-Save Instance (with settings)
-Universal Aimbot
+- DarkDex
+- Hydroxide (Remote Spy)
+- Save Instance (with settings)
+- Universal Aimbot
