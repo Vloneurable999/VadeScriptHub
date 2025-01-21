@@ -8,3 +8,9 @@ local Vade = loadstring(game:HttpGet(VadeURL))()
 
 Vade.Load()
 ```
+
+--Vade Hub currently has--
+DarkDex
+Hydroxide (Remote Spy)
+Save Instance (with settings)
+Universal Aimbot
